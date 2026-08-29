@@ -1,6 +1,6 @@
 #|||||||||||||||||||||||||#
 08.28.2026 20:16:13
-alias thisisatest='cd ~'
+alias test2='cd ~'
 #|||||||||||||||||||||||||#
 alias instGit='sudo dnf install git -y'
 alias c='clear'
