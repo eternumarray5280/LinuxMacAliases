@@ -1,6 +1,7 @@
 #|||||||||||||||||||||||||#
 08.28.2026 20:16:13
 #|||||||||||||||||||||||||#
+alias instGit='sudo dnf install git -y'
 alias c='clear'
 alias instflatpak='sudo dnf install flatpak -y;flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo>'
 ##########SSH##########
